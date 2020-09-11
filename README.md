@@ -18,7 +18,7 @@ Supporting Medium Article : https://medium.com/@mujtaba1747/how-to-learn-linux-a
 - Use `./watch.sh &` to run it in the background 
 
 ## How to stop the script from running in the background
-- If you run the script using `./watch.sh`, it will terminate as soon as one presses Ctrl+C or Exit the Terminal Session.
+- If you run the script using `./watch.sh`, it will terminate as soon as one presses Ctrl+C or Exits the Terminal Session.
 
 
 - If you run the script in the background (which is convinient) using `./watch.sh &`
