@@ -23,9 +23,9 @@ Supporting Medium Article : https://medium.com/@mujtaba1747/how-to-learn-linux-a
 
 - If you run the script in the background (which is convinient) using `./watch.sh &`
 
-  The Ampersand sign (&) makes it run in the background
+  The Ampersand sign (&) makes it or any process for that matter, to run in the background
   
-  Once you're done using the script, it becomes tricky to stop the script. One way is to restart/logging out which is easy but not convinient.
+  Once you're done using the script, it becomes tricky to stop the script. One way is to restart the machine which is easy but not convinient.
   
   Here is the smart method : 
   
@@ -40,7 +40,9 @@ Supporting Medium Article : https://medium.com/@mujtaba1747/how-to-learn-linux-a
 
 3. Whats is /dev/null : https://linuxhint.com/what_is_dev_null/
 
-4. Video Demonstration of the Project : https://www.youtube.com/watch?v=2Gru7rnZRZA
+4. Learning more about kill command : http://linuxcommand.org/lc3_man_pages/kill1.html (you could just go through `man kill alternatively`)
+
+5. Video Demonstration of the Project : https://www.youtube.com/watch?v=2Gru7rnZRZA
  
 Pull Requests and issues are Welcome !
   
