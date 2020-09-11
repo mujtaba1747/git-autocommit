@@ -40,9 +40,11 @@ Supporting Medium Article : https://medium.com/@mujtaba1747/how-to-learn-linux-a
 
 3. Whats is /dev/null : https://linuxhint.com/what_is_dev_null/
 
-4. Learning more about the kill command : http://linuxcommand.org/lc3_man_pages/kill1.html (one could go through `man kill` alternatively)
+4. More about the kill command : http://linuxcommand.org/lc3_man_pages/kill1.html (one could go through `man kill` alternatively)
 
-5. Video Demonstration of the Project : https://www.youtube.com/watch?v=2Gru7rnZRZA
+5. More about the inotifywait call : https://man7.org/linux/man-pages/man1/inotifywait.1.html (one could go through `man inotifywait` instead if inotify tools are installed) 
+
+6. Video Demonstration of the Project : https://www.youtube.com/watch?v=2Gru7rnZRZA
  
 Pull Requests and issues are Welcome !
   
