@@ -23,7 +23,7 @@ Important Links for reference :
 4. Video Demonstration of the Project : https://www.youtube.com/watch?v=2Gru7rnZRZA
 
 How to stop the script from running in the background
-- If you run the script using ./watch.sh, it will terminate as soon as one presses Ctrl+C or Exit the Terminal Session.
+- If you run the script using `./watch.sh`, it will terminate as soon as one presses Ctrl+C or Exit the Terminal Session.
 - If you run the script in the background (which is convinient) using ./watch.sh &
 
   The Ampersand sign (&) makes it run in the background
