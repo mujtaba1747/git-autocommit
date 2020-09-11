@@ -1,5 +1,5 @@
 #!/bin/bash
-path="/home/mujtaba/Desktop/GitBois/MyDrive"
+path="/home/username/Desktop/MyDrive" # Replace this with the path to your git repository. To get path, run pwd in the directory whose path you want  
 while true 
 do
 	inotifywait --recursive -qq -e attrib,create,delete,modify,delete_self,move,move_self,close_write $path
