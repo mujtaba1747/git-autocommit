@@ -1,6 +1,7 @@
 # git-autocommit
 A bash script to automate pushing changes to github
-Employs System Call (inotifywait) to recursively watch a directory for changes.
+
+It Employs inotifywait (a Linux System Call from the inotify family) to recursively watch a directory for changes.
 Triggers Commands to push changes when they are detected.
 
 This script can be easily modified for any VCS / Cloud provider which provides command-line interface.
@@ -15,6 +16,8 @@ Before Using :
 Important Links for reference : 
 1. To add ssh-keys : https://docs.github.com/en/enterprise/2.18/user/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key
 
-2. Whats is /dev/null : https://linuxhint.com/what_is_dev_null/
+2. Installing inotify-tools and more info : https://github.com/inotify-tools/inotify-tools/wiki
 
-3. Video Demonstration of Project : https://www.youtube.com/watch?v=2Gru7rnZRZA
+3. Whats is /dev/null : https://linuxhint.com/what_is_dev_null/
+
+4. Video Demonstration of Project : https://www.youtube.com/watch?v=2Gru7rnZRZA
