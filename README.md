@@ -46,4 +46,4 @@ Supporting Medium Article : https://medium.com/@mujtaba1747/how-to-learn-linux-a
  
 Pull Requests and issues are Welcome !
   
-For further queries feel free reach out : mujtaba1747@gmail.com
+For any queries feel free reach out : mujtaba1747@gmail.com
