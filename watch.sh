@@ -1,5 +1,9 @@
 #!/bin/bash
+<<<<<<< HEAD
 path="/home/username/Desktop/GitBois/MyDrive" # Replace this with the path to your git repository. To get path, run pwd in the directory or right click and select properties of the folder  
+=======
+path="/home/mujtaba/Desktop/Repo-Name" # Replace this with the path to your git repository. To get path, run pwd in the directory or right click and select properties of the folder  
+>>>>>>> 8e68337bd2066056cc16c192ca475a51278d45b1
 while true 
 do
 	inotifywait --recursive -qq -e attrib,create,delete,modify,delete_self,move,move_self,close_write $path > /dev/null &> /dev/null
