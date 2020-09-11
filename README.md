@@ -40,7 +40,7 @@ Supporting Medium Article : https://medium.com/@mujtaba1747/how-to-learn-linux-a
 
 3. Whats is /dev/null : https://linuxhint.com/what_is_dev_null/
 
-4. Learning more about the kill command : http://linuxcommand.org/lc3_man_pages/kill1.html (you could just go through `man kill` alternatively)
+4. Learning more about the kill command : http://linuxcommand.org/lc3_man_pages/kill1.html (one could just go through `man kill` alternatively)
 
 5. Video Demonstration of the Project : https://www.youtube.com/watch?v=2Gru7rnZRZA
  
