@@ -36,5 +36,6 @@ How to stop the script from running in the background
   
   After that you'll have to run ps aux | grep inotify, find the PID of inotify and then killing it using kill command.
   
-  Pull Requests, queries and issues are appreciated !
+  Pull Requests and issues are appreciated !
+  
   For further queries feel free reach out : mujtaba1747@gmail.com
