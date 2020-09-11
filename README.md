@@ -23,7 +23,7 @@ Important Links for reference :
 4. Video Demonstration of the Project : https://www.youtube.com/watch?v=2Gru7rnZRZA
 
 How to stop the script from running in the background
-- If you run the script using ./watch.sh, it will terminate as soon as one presses Ctrl+C or Exits the Terminal Session.
+- If you run the script using ./watch.sh, it will terminate as soon as one presses Ctrl+C or Exit the Terminal Session.
 - If you run the script in the background (which is convinient) using ./watch.sh &
 
   The Ampersand sign (&) makes it run in the background
@@ -33,4 +33,5 @@ How to stop the script from running in the background
   Here is the smart method : 
   
   Use ps aux | grep watch, find the PID of the script and then killing it using kill PID_of_script
+  
   After that you'll have to run ps aux | grep inotify, find the PID of inotify and then killing it using kill command.
