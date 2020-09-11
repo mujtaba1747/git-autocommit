@@ -10,7 +10,7 @@ Supporting Medium Article : https://medium.com/@mujtaba1747/how-to-learn-linux-a
 
 ## Before Using : 
 1. Make sure git or whatever VCS you're using is configured properly (SSH keys) and you already have cloned the target repo to your local machine.
-2. Make sure you have inotify-tools installed. (if not, Ubuntu users can type : sudo apt-get install inotify-tools) 
+2. Make sure you have inotify-tools installed. (if not, Ubuntu users can type : sudo apt-get install inotify-tools) for other Distros : https://github.com/inotify-tools/inotify-tools/wiki
 3. Make sure you have the correct path of the cloned repo in the script.
 
 ## Using the script : 
