@@ -53,6 +53,6 @@ Pull Requests and issues are Welcome !
 For any queries feel free reach out : mujtaba1747@gmail.com
 
 ## One small Caveat
-You can't upload files whose induvidual size is larger than 100 MB.
+You can't upload files whose induvidual size is larger than 50 MB.
 You can upload as many files as needed with smaller induvidual size.
 For larger files, https://git-lfs.github.com/ is recommended
