@@ -1,7 +1,7 @@
 # git-autocommit
 A bash script to automate pushing changes to github
 
-![Image](git-autocommit/Image.png?raw=true&sanitize=true)
+![Image](/Image.png?raw=true&sanitize=true)
 
 It Employs inotifywait (a Linux System Call from the inotify family) to recursively watch a directory for changes.
 Triggers Commands to push changes when they are detected.
