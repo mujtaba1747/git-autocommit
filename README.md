@@ -51,3 +51,7 @@ Supporting Medium Article : https://medium.com/@mujtaba1747/how-to-learn-linux-a
 Pull Requests and issues are Welcome !
   
 For any queries feel free reach out : mujtaba1747@gmail.com
+
+## One small Caveat
+You can't upload files whose induvidual size is larger than 25MB.
+You can upload as many files as needed with smaller induvidual size.
