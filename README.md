@@ -23,7 +23,7 @@ Supporting Medium Article : https://medium.com/@mujtaba1747/how-to-learn-linux-a
 - If you run the script using `./watch.sh`, it will terminate as soon as one presses Ctrl+C or Exits the Terminal Session.
 
 
-- If you run the script in the background (which is convinient) using `./watch.sh &`
+- If you run the script in the background (which is convenient) using `./watch.sh &`
 
   The Ampersand sign (&) makes it or any process for that matter, to run in the background
   
@@ -53,6 +53,6 @@ Pull Requests and issues are Welcome !
 For any queries feel free reach out : mujtaba1747@gmail.com
 
 ## One small Caveat
-You can't upload files whose induvidual size is larger than 50 MB.
-You can upload as many files as needed with smaller induvidual size.
+You can't upload files whose individual size is larger than 50 MB.
+You can upload as many files as needed with smaller individual size.
 For larger files, https://git-lfs.github.com/ is recommended
